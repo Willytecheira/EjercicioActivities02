@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ejercicio0022</string>
+    <string name="ejercicio_1">Ejercicio 1</string>
+    <string name="ejercicio_2">Ejercicio 2</string>
+    <string name="ejercicio_2_2">Ejercicio 2-2</string>
+    <string name="ejercicio_2_1">Ejercicio 2-1</string>
 </resources>
